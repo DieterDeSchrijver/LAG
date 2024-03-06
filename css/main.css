@@ -48,9 +48,8 @@
 
 .tokenomics-block {
     width: 30%;
-    background-color: #ecc777fd;
     padding: 20px;
-    border: #000 1px solid;
+    border: #000 1px dotted;
     border-radius: 8px;
 }
 
@@ -61,6 +60,19 @@
 .tokenomics-block p {
     font-size: 14px;
     color: #666;
+}
+
+.lagpic {
+    padding-top: 10em;
+    width: 80%; /* Adjust the width as needed */
+    max-width: 100%;
+    height: auto;
+}
+
+.memepic {
+    width: 80%; /* Adjust the width as needed */
+    max-width: 100%;
+    height: auto;
 }
 
 
